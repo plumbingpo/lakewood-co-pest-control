@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakewoodpestcontrolsquad.com/sitemap.xml
